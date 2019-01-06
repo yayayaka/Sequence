@@ -1,0 +1,10 @@
+E:\CSharpProjects\Sequence\Sequence\bin\Debug\Sequence.exe.config
+E:\CSharpProjects\Sequence\Sequence\bin\Debug\Sequence.exe
+E:\CSharpProjects\Sequence\Sequence\bin\Debug\Sequence.pdb
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.csprojAssemblyReference.cache
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.Form1.resources
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.Properties.Resources.resources
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.csproj.GenerateResource.cache
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.exe
+E:\CSharpProjects\Sequence\Sequence\obj\Debug\Sequence.pdb
